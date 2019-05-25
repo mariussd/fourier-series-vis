@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  flex-direction: column;
+  background-color: #222222;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+.fieldrow {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+  flex-direction: row;
+}
+
+.fieldcontainer {
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: black;
+  border-radius: 10px;
+}
