@@ -2,6 +2,8 @@
 let c = document.getElementById("canvas");
 let ctx = c.getContext("2d");
 
+console.log("heihei, du");
+
 // HTML elements
 let coefficient = document.getElementById("coefficient");
 let speed = document.getElementById("speed");
